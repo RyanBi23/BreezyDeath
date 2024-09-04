@@ -1,0 +1,4 @@
+name: BreezyRevive
+version: '1.0-SNAPSHOT'
+main: com.breezy.breezyRevive.BreezyRevive
+api-version: '1.21'
